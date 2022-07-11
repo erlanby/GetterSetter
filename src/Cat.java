@@ -4,10 +4,10 @@ public class Cat {
     private double weight;
     private String color;
 
-    void sleep(){ //
+    void sleep(){ 
         System.out.println("Im sleeping every day");
     }
-    void dontLike(){ // Жакпайт
+    void dontLike(){ 
         System.out.println("Elnura hates me ;( because im cat ");
     }
 
